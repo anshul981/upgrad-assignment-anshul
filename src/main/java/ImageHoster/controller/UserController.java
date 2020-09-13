@@ -79,4 +79,5 @@ public class UserController {
         model.addAttribute("images", images);
         return "index";
     }
+
 }
